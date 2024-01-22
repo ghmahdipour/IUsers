@@ -1,0 +1,7 @@
+{
+    "users": [
+        {"id":1,"username":"admin","password":"123456789","country":"Iran","city":"Tehran"},
+        {"id":2,"username":"user","password":"123456","country":"Canada","city":"Estevan"},
+        {"id":3,"username":"ali","password":"154326","country":"Germany","city":"Munich"}
+    ]
+}
